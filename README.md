@@ -146,8 +146,8 @@ Luego abrir navegador en: `http://localhost:5000`
 
 ## 👨‍💻 Autor
 
-**Estudiante de Ingeniería Estadística e Informática**  
-Universidad Nacional de Educación - 7mo Semestre  
+**Pr"delta de Ingeniería Estadística e Informática**  
+Universidad Nacional del ALtiplano - 7mo Semestre  
 Curso: Machine Learning Supervisado
 
 ## 📅 Fecha
